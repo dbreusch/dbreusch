@@ -1,10 +1,11 @@
-### Hi there 👋
+### Greetings! 
 
+Welcome to my GitHub site.  Here you will find a mix of (1) some not-very-exciting repos related to classes I've taken, (2) some "demo" repos showing some examples of code I've done completely outside GitHub and (3) some work-in-progress "portfolio" repos for more sophisticated projects.
 <!--
 **dbreusch/dbreusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
