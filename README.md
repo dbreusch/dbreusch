@@ -1,6 +1,6 @@
 ### Greetings! 
 
-Welcome to my GitHub site.  Here you will find a mix of (1) some not-very-exciting repos related to classes I've taken, (2) some "demo" repos showing some examples of code I've done completely outside GitHub and (3) some work-in-progress "portfolio" repos for more sophisticated projects.
+Welcome to my GitHub site.  The most important stuff (the more sophisticated projects, a.k.a., "portfolio" repos) is still primarily "work in progress". However, you can also find (1) less advanced work related to the many classes I've taken since spring 2020 and (2) some "demo" repos showing some examples of code I've done completely outside GitHub.
 <!--
 **dbreusch/dbreusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
