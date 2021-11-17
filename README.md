@@ -38,7 +38,7 @@ _seaice_: Convert binary, remote sensing-based sea ice data into a different bin
 #### C++: CplusplusExamples
 _cs819_: Fairly simple example from a graduate school class.  
 
-_Computer Science M.Sc._: Unfortunately the _extensive_ code from my Master’s thesis appears to be lost.
+_Computer Science M.Sc._: Unfortunately the extensive code from my Master’s thesis appears to be lost.
 
 <!--
 **dbreusch/dbreusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
