@@ -19,8 +19,26 @@ This is a Python app to do some basic monitoring of your internet connection (on
 ### mainSite
 My main personal Web site.
 
-### fortranExamples, pythonExamples, CplusplusExamples
-Some examples of past work in Fortran, Python and C++.
+### Some examples of past work in Python, Fortran and C++.
+
+#### Python: pythonExamples
+_hpc_bin_: utility scripts related to running the WRF model on the NCAR supercomputer.
+
+_jupyternb_: Jupyter notebooks for various research tasks.  Dominated by plotting scripts but also includes data-analytical code such as for finding the nearest model grid point to a specific lat/lon coordinate (e.g., the location of an automatic weather station) and interpolating a grid to a specific location.
+
+_python_modules_: Some commonly used functions repackaged as modules (used heavily by the Jupyter notebooks).
+
+_utils_: a simple utility for macOS that helps manage free space on Time Machine volumes.
+
+#### Fortran: fortranExamples
+_geodesic_grids_: Regrid from rectilinear lat/lon grids to a geodesic mesh.  Reads/writes netCDF.
+
+_seaice_: Convert binary, remote sensing-based sea ice data into a different binary format used by the meteorological forecast model WRF.  Includes supporting scripts.
+
+#### C++: CplusplusExamples
+_cs819_: Fairly simple example from a graduate school class.  
+
+_Computer Science M.Sc._: Unfortunately the _extensive_ code from my Master’s thesis appears to be lost.
 
 <!--
 **dbreusch/dbreusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
